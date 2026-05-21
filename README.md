@@ -10,11 +10,11 @@ Term Project:
 2. Provide a description of the dataset used including explanation of various features.
 3. Pre-process and clean the dataset as appropriate.
 4. Use following approaches for classification of the dataset:
-  1. Logistic Regression
-  2. Decision Tree
-  3. Random Forest
-  4. SGD
-  5. SVM
+    Logistic Regression
+    Decision Tree
+    Random Forest
+    SGD
+    SVM
 5. Use GridSearchCV to tune the parameter of each of the above models. Can you obtain better results in this step for any of the models? Discuss your observations.
 6. Randomly (or based on certain hypothesis) remove some features and re-evaluate the models. Document your observations with respect to models performances.
 7. Present your work in-person including approach and findings during the class on May 26th, 2026. Each group will have a maximum of 15 minutes to present their project. It is advised that 8. your PowerPoint files to be no longer than 15 slides.
